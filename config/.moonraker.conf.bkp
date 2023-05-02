@@ -41,3 +41,16 @@ channel = stable
 repo = mainsail-crew/mainsail
 path = ~/mainsail
 
+[update_manager led_effect]
+type = git_repo
+path = ~/klipper-led_effect
+origin = https://github.com/julianschill/klipper-led_effect.git
+is_system_service = False
+
+[update_manager client shared-klipper-config]
+type = git_repo
+path = ~/shared-klipper-config
+origin = https://github.com/tstone/shared-klipper-config.git
+install_script = install.sh
+managed_services = klipper
+
