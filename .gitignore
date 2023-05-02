@@ -1,0 +1,8 @@
+backup/
+certs/
+comms/
+database/
+gcodes/
+logs/
+
+config/nb.shared/
