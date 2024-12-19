@@ -1,6 +1,6 @@
 # v2-fireball
-Born as V2.5740
-Rebuilt as SC.xxx
+ - Born as V2.5740
+ - Rebuilt as SC.xxx
 
 ## Toolhead
 - [Anthead](https://github.com/PrintersForAnts/AntHead/tree/main)
