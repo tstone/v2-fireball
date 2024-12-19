@@ -3,15 +3,14 @@
  - Rebuilt as SC.xxx
 
 ## Toolhead
-- [Anthead](https://github.com/PrintersForAnts/AntHead/tree/main)
-- [Mandible extruder](https://github.com/PrintersForAnts/AntHead/tree/main)
-- [Fysetc CNC Pom](https://www.aliexpress.us/item/3256806092379640.html?spm=a2g0o.order_list.order_list_main.173.5c361802ieReoV&gatewayAdapt=glo2usa) helical extruder gears
-- [Optotap 2.4.1 sensor](https://www.aliexpress.us/item/3256806080086327.html?spm=a2g0o.order_list.order_list_main.131.5c361802ieReoV&gatewayAdapt=glo2usa)
+- [Anthead & Mandible](https://github.com/PrintersForAnts/AntHead/tree/main)
+ - [Fysetc CNC Pom](https://www.aliexpress.us/item/3256806092379640.html?spm=a2g0o.order_list.order_list_main.173.5c361802ieReoV&gatewayAdapt=glo2usa) helical extruder gears
+ - [Optotap 2.4.1 sensor](https://www.aliexpress.us/item/3256806080086327.html?spm=a2g0o.order_list.order_list_main.131.5c361802ieReoV&gatewayAdapt=glo2usa)
+ - Voron Revo hotend
+ - [GDStime 4010](https://www.aliexpress.us/item/2251832612319325.html?spm=a2g0o.order_list.order_list_main.149.5c361802ieReoV&gatewayAdapt=glo2usa) dual ball bearing blower fans
+ - [GDStime 2510](https://www.aliexpress.us/item/2251832779423608.html?spm=a2g0o.order_list.order_list_main.95.5c361802ieReoV&gatewayAdapt=glo2usa) dual ball bearing axial fan
 - [EBB36 Can](https://www.aliexpress.us/item/3256804056891440.html?spm=a2g0o.order_list.order_list_main.71.5c361802ieReoV&gatewayAdapt=glo2usa)
-- [PCB36 Mount](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/PCBMount.stl)
-- Voron Revo hotend
-- [GDStime 4010](https://www.aliexpress.us/item/2251832612319325.html?spm=a2g0o.order_list.order_list_main.149.5c361802ieReoV&gatewayAdapt=glo2usa) dual ball bearing blower fans
-- [GDStime 2510](https://www.aliexpress.us/item/2251832779423608.html?spm=a2g0o.order_list.order_list_main.95.5c361802ieReoV&gatewayAdapt=glo2usa) dual ball bearing axial fan
+ - [PCB36 Mount](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/PCBMount.stl)
 
 ## Toolchange
 - [PCB36 Backplate](https://github.com/DraftShift/StealthChanger/blob/main/UserMods/TheSin-/PCB36_Mount/Anthead_SF.stl)
