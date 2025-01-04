@@ -19,6 +19,7 @@
 ## Dock
 - Stock frame - No buffer (see "gantry" below for idlers)
 - 2020 extrusion crossbar
+- [Draftshift Modular Dock "stubby" Anthead dock](https://github.com/DraftShift/ModularDock/blob/main/STLs/Anthead/Base_Stubby.stl)
 
 ## Umbilical
 - DIY
