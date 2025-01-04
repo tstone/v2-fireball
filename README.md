@@ -17,10 +17,8 @@
 - Custom Anthead spacer to allow for LED wire routing (TODO: upload STL)
 
 ## Dock
-- Stock frame
-- Crossbar
-- [Mini BFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI) idlers
-  - To use: [Stealthchanger BeltHelper](https://github.com/DraftShift/StealthChanger/tree/main/STLs/Extras/BeltHelper)
+- Stock frame - No buffer (see "gantry" below for idlers)
+- 2020 extrusion crossbar
 
 ## Umbilical
 - DIY
@@ -31,3 +29,10 @@
 
 ## Umbilical Management
 - [BTT CEB 1.0](https://www.aliexpress.us/item/3256806680070833.html?spm=a2g0o.order_list.order_list_main.89.5c361802ieReoV&gatewayAdapt=glo2usa)
+- Minimal CEB mount (TODO: upload STL)
+- Custom slanted entry (see Z chain below) (TODO: upload STL)
+
+## Gantry
+- [Z chain transpose](https://www.printables.com/model/764315-voron-24-z-chain-transpose) -- This is necessary to avoid hitting the umbilcal entry
+- [Mini BFI](https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI) idlers
+  - To use: [Stealthchanger BeltHelper](https://github.com/DraftShift/StealthChanger/tree/main/STLs/Extras/BeltHelper)
